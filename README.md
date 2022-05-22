@@ -211,7 +211,11 @@ path Traversed by Driver 4 -\>
 For Optimal Distance – 
 ```
 
-![Testcase_1_optimal_distance](C:\Users\Saksham Sahgal\OneDrive\COLLEGE\APS Project\Optimal-Delivery-System-Console\Testcase_1_optimal_distance.png)
+
+
+<img src="C:\Users\Saksham Sahgal\OneDrive\COLLEGE\APS Project\Optimal-Delivery-System-Console\Testcase_1_optimal_distance.png"  />
+
+
 
 Minimum distance possible - 25
 
