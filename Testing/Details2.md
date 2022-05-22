@@ -1,5 +1,3 @@
-# Optimal-Delivery-System-Console
-
 ```
 ﻿Class - Shortest_path_finder
 ```
@@ -76,7 +74,3 @@ Functions –
 -   void display_clusters() //just a cluster printer function
 -   void job_scheduling_on_clusters() //sorts the clusters on the basis of their deadline
 -   void Display_cluster_path_traversed() //prints the path from the cluster
-
-```
-
-```
