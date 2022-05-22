@@ -242,6 +242,7 @@ For Optimal Cost –
 ![](Testcase_1_optimal_distance.png)
 
 Minimum cost possible - 125
+
 Mini Cost Cluster -
 [ 4 12 13 ]
 [ 6 9 ]
