@@ -211,11 +211,7 @@ path Traversed by Driver 4 -\>
 For Optimal Distance – 
 ```
 
-
-
-<img src="C:\Users\Saksham Sahgal\OneDrive\COLLEGE\APS Project\Optimal-Delivery-System-Console\Testcase_1_optimal_distance.png"  />
-
-
+![](Testcase_1_optimal_distance.png)
 
 Minimum distance possible - 25
 
@@ -247,18 +243,14 @@ For Optimal Cost –
 
 Minimum cost possible - 125
 
-Mini Cost Cluster -
-[ 4 12 13 ]
-[ 6 9 ]
-[ ]
-[ ]
+Mini Cost Cluster - [ 4 12 13 ] [ 6 9 ] [ ] [ ]
 
 Mini Cost traversal -
 
- path Traversed by Driver 1 -> 1 3 4 12 13
+path Traversed by Driver 1 -\> 1 3 4 12 13
 
- path Traversed by Driver 2 -> 1 3 5 6 9
+path Traversed by Driver 2 -\> 1 3 5 6 9
 
- path Traversed by Driver 3 ->
+path Traversed by Driver 3 -\>
 
- path Traversed by Driver 4 ->
+path Traversed by Driver 4 -\>
