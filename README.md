@@ -77,6 +77,30 @@ Functions –
 -   void job_scheduling_on_clusters() //sorts the clusters on the basis of their deadline
 -   void Display_cluster_path_traversed() //prints the path from the cluster
 
-```
+Input Format –
 
-```
+no of vertex , no_of_edge , src , no_of_drivers
+
+v11 v12 w1
+
+v21 v22 w2
+
+.
+
+.
+
+vno_of_edge1 vno_of_edge2 wno_of_edge
+
+no_of_delivery_locations
+
+d1 t1 // delivery vertex , deadline
+
+d2 t2
+
+d3 t3
+
+.
+
+.
+
+d (no_of_delivery_locations) , t(no_of_delivery_locations)
