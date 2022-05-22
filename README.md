@@ -77,7 +77,13 @@ Functions –
 -   void job_scheduling_on_clusters() //sorts the clusters on the basis of their deadline
 -   void Display_cluster_path_traversed() //prints the path from the cluster
 
-Input Format –
+# 
+
+```
+Input Format –  
+```
+
+# 
 
 no of vertex , no_of_edge , src , no_of_drivers
 
@@ -105,7 +111,9 @@ d3 t3
 
 d (no_of_delivery_locations) , t(no_of_delivery_locations)
 
+```
 Testcase 1 – 
+```
 
 15 24 1 4
 
@@ -170,3 +178,29 @@ Testcase 1 –
 13 15
 
 ![](media/1a989c81088cdba11229c90211e26ff8.png)
+
+```
+For Optimal Time – 
+```
+
+![](Testcase_1_optimal_time.png)Minimum time possible - 15
+
+Mini time Cluster -
+
+[ 4 6 9 ]
+
+[ 12 13 ]
+
+[ ]
+
+[ ]
+
+Mini time path traversed -
+
+path Traversed by Driver 1 -\> 1 3 4 6 9
+
+path Traversed by Driver 2 -\> 1 3 4 12 13
+
+path Traversed by Driver 3 -\>
+
+path Traversed by Driver 4 -\>
