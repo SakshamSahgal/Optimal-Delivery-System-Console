@@ -585,7 +585,7 @@ int main()
     SetColor(34);
     //line_printer(20);
     cout<<"---------------------OUTPUT------------------------\n";
-    Shortest_path_finder g1(graph);
+    Shortest_path_finder g1(graph); // (no of vertex)^3
     //=============Inputs, Creation of Graph, Floyd Warshall application done
     auto start = high_resolution_clock::now();
     cout<<"Through Brute -> \n";
