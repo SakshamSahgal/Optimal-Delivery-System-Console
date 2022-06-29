@@ -1,5 +1,7 @@
 # Optimal-Delivery-System-Console
 
+Developed by - Saksham Sahgal , Ganesh G Setty , Hitarth Srivastava , Shabdansh Gupta. 
+
 ```
 ﻿Class - Shortest_path_finder
 ```
